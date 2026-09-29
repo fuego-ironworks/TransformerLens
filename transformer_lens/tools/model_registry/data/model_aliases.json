@@ -164,6 +164,9 @@
     "EleutherAI/pythia-14m": [
       "pythia-14m"
     ],
+    "EleutherAI/pythia-14m-deduped": [
+      "pythia-14m-deduped"
+    ],
     "EleutherAI/pythia-160m": [
       "pythia-160m",
       "EleutherAI/pythia-125m",
