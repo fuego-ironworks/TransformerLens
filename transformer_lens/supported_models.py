@@ -47,6 +47,7 @@ OFFICIAL_MODEL_NAMES: list[str] = [
     "EleutherAI/pythia-12b-deduped-v0",
     "EleutherAI/pythia-12b-v0",
     "EleutherAI/pythia-14m",
+    "EleutherAI/pythia-14m-deduped",
     "EleutherAI/pythia-160m",
     "EleutherAI/pythia-160m-deduped",
     "EleutherAI/pythia-160m-deduped-v0",
